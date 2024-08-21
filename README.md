@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tae-yun!
+# 👋 Hello, I'm Taeyun!
 
 
 ## 🚀 About Me
