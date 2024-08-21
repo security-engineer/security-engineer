@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Tae-yun!
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+my+GitHub+Profile!)
 
 ## 🚀 About Me
 
