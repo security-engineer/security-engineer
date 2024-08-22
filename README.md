@@ -29,9 +29,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=security-engineer&show_icons=true&theme=radical)
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ## 🌐 Connect with Me
 
