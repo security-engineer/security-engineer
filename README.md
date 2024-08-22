@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m currently studying/completing my degree in Advanced Computer-engineering
-- 💻 I’m working on individual
+- 🎓 I’m currently studying/completing my degree in Advanced Computer-engineering.
+- 💻 I’m working on private security project.
 - 🌱 I’m currently learning FullStack Web development.
 
 ## 🛠️ Skills
