@@ -7,7 +7,7 @@
 - 💻 I’m working on private security project.
 - 🌱 I’m currently learning FullStack Web development.
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
