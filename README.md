@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Taeyun!
+# 👋 Hello, I'm Taeyun! I aspire to be a hexagonal programmer.
 
 
 ## 🚀 About Me
