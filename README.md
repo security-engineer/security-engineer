@@ -1,5 +1,5 @@
 <h1 align="center">Computer Engineer.</h1>
-<h3 align="center">Compiler, Reverse Engineering, AI Security Framework, AI Optimization</h3>
+<h3 align="center">Compiler, Cyber Security, Reverse Engineering, AI Security Framework, AI Optimization</h3>
 
 
 ## 🚀 About Me
