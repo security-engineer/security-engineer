@@ -2,9 +2,6 @@
 <h3 align="center">Compiler, Cyber Security, Reverse Engineering, AI Security Framework, AI Optimization</h3>
 
 
-## 🚀 About Me
-
-Just that all.
 
 ## 🌐 Connect with Me
 
