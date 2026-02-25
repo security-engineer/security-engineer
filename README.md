@@ -5,7 +5,7 @@
 
 ## 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.pwnking@gmail.com) im.pwnking@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.pwnking@gmail.com)  hacker@yu.ac.kr
 
 ## 🌍 My Website
 
